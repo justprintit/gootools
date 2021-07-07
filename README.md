@@ -1,6 +1,19 @@
 GooTools
 ========
 
+Etymology
+---------
+
+Goo
+> /ɡuː/
+>
+> a stinky synthetic organic polymer, insoluble in water, used to turn imagination into relity.
+
+Tool
+> /tuːl/
+>
+> a device used to get things done.
+
 See also
 --------
 
